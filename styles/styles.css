@@ -180,11 +180,6 @@ footer p{
     footer button{
         margin-left: 650px;
     }
-    /* .icons{
-        margin-left: 0px;
-        border: 2px solid red;
-        width: 100%;
-    } */
    
 }
 @media (max-width: 1456px) { 
@@ -412,21 +407,15 @@ p{
       display:  none;
   }
   #root{
-      border: 2px solid blue;
       width: 120%;
   }
   #bodydiv{
       width: 230%;
-      border: 2px solid black;
       /* margin-left: 50px; */
   }
   #asidediv{
       height: 70vh;
       width: 120%;
-      /* margin-left: 50px; */
-      /* width: 35%; */
-      border: 2px solid red;
-      /* margin-left: 100px; */
   }
   .icons{
       padding-left: 0px;
@@ -467,7 +456,7 @@ footer h1{
 @media (max-width: 360px){
     .container{
         width:125%;
-        border: 2px solid red;
+        
     }
     #root{
         width: 125%;
@@ -480,11 +469,10 @@ footer h1{
     }
     #image{
         margin-top:0px;
-        border: 2px solid yellow;
+       
     }
     footer{
         margin-top: 210px;
-        border: 2px solid yellow;
         height: 65vh;
         width: 125%;
     }
@@ -497,7 +485,7 @@ footer h1{
  @media (max-width: 375px){
     .container{
         width:125%;
-        border: 2px solid red;
+      
     }
     #root{
         width: 125%;
@@ -510,11 +498,9 @@ footer h1{
     }
     #image{
         margin-top:0px;
-        border: 2px solid yellow;
     }
     footer{
         margin-top: 210px;
-        border: 2px solid yellow;
         height: 55vh;
         width: 115%;
     }
@@ -531,7 +517,6 @@ footer h1{
     }
     footer h1{
         padding-left: 0px;
-        border: 2px solid gray;
     }
 
 
@@ -539,7 +524,7 @@ footer h1{
  @media (max-width: 414px){
     .container{
         width:100%;
-        border: 2px solid red;
+
     }
     #title{
         margin-top: 3px;
@@ -561,7 +546,6 @@ footer h1{
     }
     #image{
         margin-top:0px;
-        border: 2px solid yellow;
     }
     .image{
         width: 20%;
@@ -569,25 +553,13 @@ footer h1{
     }
     footer{
         margin-top: 280px;
-        border: 2px solid yellow;
         height: 45vh;
         width: 100%;
     }
     .icons{
         padding-left: 50px;
     }
-    /* P{
-        margin-left: 0px;
-    } */
-    /* h5{
-        margin-left:13px;
-        font-size: 15px;
-        font-weight: bold;
-    }
-    footer button{
-        margin-left: 150px;
-    }
     
 
 
-} 
+ }
